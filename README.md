@@ -1,2 +1,2 @@
 # SeleProxy
-selenium自动化切换ip代理程序，ip代理采用IPProxyPool，正在开发中
+selenium 数据抓取程序，采用代理ip进行防屏蔽设计
